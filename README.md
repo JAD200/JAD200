@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JAD200 ...or Juan if you want
-- 👀 I’m interested in web development, reading, movies, self improvemnent
+- 👀 I’m interested in web development, reading, movies, self improvement
 - 🌱 I’m currently learning programing
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me juandipasquo@gmail.com
