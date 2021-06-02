@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning coding
 - 💞️ I’m looking to collaborate 
 - 📫 How to reach me juandipasquo@gmail.com 
-- 🕊️ I also have Twitter @JADiPasquo
+- 🕊️ I also have Twitter [@JADiPasquo](https://twitter.com/JADiPasquo)
 
 <!---
 JAD200/JAD200 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
