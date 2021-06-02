@@ -1,8 +1,14 @@
-- 👋 Hi, I’m @JAD200 ...or Juan if you want
-- 👀 I’m interested in web development, reading, movies, self improvement
-- 🌱 I’m currently learning coding
-- 💞️ I’m looking to collaborate 
-- 📫 How to reach me juandipasquo@gmail.com 
+# Brief introduction about me
+
+- 👋😃 Hi, I´m @JAD200... or Juan if you want. It's a pleasure to meet you.
+
+- 👀 I´m interested in web development, reading(Mainly Star Wars stuff) and self improvement
+
+- 🌱 I´m currently learning coding. Nothing in special
+
+## How to reach me 🔍
+- 📧 My email juandipasquo@gmail.com 
+
 - 🕊️ I also have Twitter [@JADiPasquo](https://twitter.com/JADiPasquo)
 
 <!---
