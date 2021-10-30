@@ -4,7 +4,7 @@
 
 - 👀 I´m interested in web development, reading(Mainly Star Wars stuff) and self improvement
 
-- 🌱 I´m currently learning coding, here is [my profile](https://platzi.com/p/Juan_Di_Pasquo/ "my profile") 
+- 🌱 I´m currently learning coding, [here is my profile](https://platzi.com/p/Juan_Di_Pasquo/ "my profile") 
 
 ## How many languajes do I know?🌐
 - 🇦🇷 :es: Spanish(native)
