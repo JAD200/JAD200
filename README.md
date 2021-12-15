@@ -17,6 +17,7 @@
 
 - 🕊️ I also have Twitter [<img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/JADiPasquo?style=social">](https://twitter.com/JADiPasquo)
 
+- Or you can follow me here on **GitHub** <img alt="GitHub followers" src="https://img.shields.io/github/followers/jad200?style=social">
 <!---
 JAD200/JAD200 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
