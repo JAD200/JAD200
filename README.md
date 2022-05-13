@@ -8,8 +8,8 @@
 [Here is my profile](https://platzi.com/p/Juan_Di_Pasquo/ "my profile") 
 
 ## How many languajes do I speak?🌐
-- 🇦🇷 :es: Spanish (native)
-- :gb: English level [First B2][B2-First-link] 
+- ![Argentina icon](https://i.imgur.com/QRxhZdi.png) ![Spain icon](https://i.imgur.com/QbS1BHl.png) Spanish (native)
+- ![England icon](https://i.imgur.com/Ad1VM6W.png) English level [First B2][B2-First-link] 
 
 ## How to reach me 🔍
 
